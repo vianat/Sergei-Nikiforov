@@ -13,8 +13,6 @@ With a strong background in automation testing, I excel in Functional and GUI ev
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,apple,linux,windows,aws,azure)](https://skillicons.dev)
 
-[![codewars](https://www.codewars.com/users/vianat/badges/large)](https://www.codewars.com/users/vianat)
-
 ## 💡 Skills:
 
 ✅ Test Planning | Test Cases | Bug Reports | Test Documentation
